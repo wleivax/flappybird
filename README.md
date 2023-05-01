@@ -1,2 +1,2 @@
 # flappybird
-flappy bird close
+flappy bird clone
